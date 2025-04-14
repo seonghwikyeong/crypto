@@ -1,0 +1,7 @@
+websocket-client
+requests
+pandas
+numpy
+matplotlib
+mplfinance
+python-binance
